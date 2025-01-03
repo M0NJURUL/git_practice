@@ -2,3 +2,5 @@ another file to amend
 something new
 
 change in another branch
+
+conflict
